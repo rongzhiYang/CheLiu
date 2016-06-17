@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="half_transparent">#aa000000</color>
+    <color name="half_white">#aaffffff</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="color_e95847">#E95847</color>
+    <color name="color_e1">#e1e1e1</color>
+    <color name="color_d9">#d9d9d9</color>
+    <color name="color_c3">#c3c3c3</color>
+    <color name="color_e58791">#e58791</color>
+    <color name="color_1e">#1e1e1e</color>
+    <color name="color_eee">#eeeeee</color>
+    <color name="color_333">#333333</color>
+    <color name="color_64">#646464</color>
+    <color name="color_25">#252525</color>
+    <color name="color_888">#888888</color>
+    <color name="color_8f999">#8f999999</color>
+    <color name="color_f3">#f3f3f3</color>
+    <color name="color_fa">#fafafa</color>
+    <color name="color_7f">#7f7f7f</color>
+    <color name="color_78">#787878</color>
+    <color name="color_a0">#a0a0a0</color>
+    <color name="color_b5">#b5b5b5</color>
+    <color name="color_f69">#ff6699</color>
+    <color name="color_76">#767676</color>
+    <color name="color_ff7e9e">#ff7e9e</color>
+    <color name="color_be">#bebebe</color>
+    <color name="color_33cb90">#33cb90</color>
+    <color name="color_50d2ea">#50d2ea</color>
+    <color name="color_fec938">#fec938</color>
+    <color name="color_f06757">#f06757</color>
+    <color name="color_ff96b0">#ff96b0</color>
+
+</resources>

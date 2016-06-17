@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">车流</string>
+    <string name="str_chewei">车位</string>
+    <string name="str_xiche">洗车</string>
+    <string name="str_baoyang">保养</string>
+    <string name="str_wode">我的</string>
+
+</resources>
